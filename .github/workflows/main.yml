@@ -1,0 +1,17 @@
+name: Update Repo Description
+
+on:
+  push:
+    branches:
+      - main # 如果你在其他分支上工作，请将其替换为正确的分支名称
+
+jobs:
+  update_description:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set repository description
+        run: |
+          echo ::set-output name=repo_description::$(cat README.md)
