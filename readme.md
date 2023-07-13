@@ -1,9 +1,9 @@
 <img align="right" src="./image/07131504_00.jpg" height="420" />
 
 
-我是一名开源爱好者，擅长前端开发. ![PV](https://visitor-badge.glitch.me/badge?page_id=hustcc)
+![Alt text](2A3ED0F4.gif)
 
-- 🌱 目前是一名大三的大学生，于2023年3月成为一名前段开发实习生...
+- 🌱 我是一名大三的前端开发实习生
 - 🏗 专注于前端开发--vue和react
 - 💬 个人成长博客是: [crinaBlog.com](https://crina.jc-meet.cn/)
 - 📫 邮箱是：2537784487@qq.com
