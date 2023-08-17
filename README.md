@@ -6,6 +6,6 @@
 - 🏗 专注于前端开发--vue和react
 - 💬 个人成长博客是: [crinaBlog.com](https://crina.jc-meet.cn/)
 - 📫 邮箱是：2537784487@qq.com
-以下是在实习时gitlab的提交记录
+- （下图是在实习时gitlab的提交记录）
 
 
