@@ -1,5 +1,6 @@
-
-<img align="right" src="./image/Snipaste_2023-07-18_14-05-56.png" height="200" width="200" />
+<img align="right" src="./image/07131504_00.jpg" height="420" />
+<img align="right" src="./image/code.png" height="420" />
+![Alt text](2A3ED0F4.gif)
 
 - 🌱 我是一名大三的前端开发实习生
 - 🏗 专注于前端开发--vue和react
